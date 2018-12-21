@@ -13,8 +13,8 @@ Demo
 ---
 
 - Asking for user input<br />
-	![]()
+	![input](Input.JPG)
 
 
 - Displays greeting<br />
-	![]()
+	![output](Output.JPG)
